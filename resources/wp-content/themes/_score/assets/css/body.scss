@@ -1,0 +1,37 @@
+ 
+/* content body */
+.site-content{
+   
+    background-color:#eee;
+	margin-top:100px;
+}
+.woocommerce-breadcrumb{
+	 
+}
+.content-area{
+	width:90%;
+	margin:0 auto;
+}
+.widget-area{
+	width:90%;
+	margin:0 auto;
+}
+
+ @media (min-width: 0px) and (max-width: 768px) { 
+	  
+	.site-content{
+		 
+		margin-top:75px;
+		
+	}
+	.content-area{
+		width:90%;
+		margin:0 auto;
+		
+	}
+	.widget-area{
+		width:90%;
+		margin:0 auto;
+		
+	}
+ }
